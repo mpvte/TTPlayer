@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ttplayer>
+	<Player 
+		PlayerWnd="444,146,727,268" 
+		PlayerWnd2="100,0,200,20" 
+		LyricWnd="727,146,1010,512" 
+		LyricWnd2="0,0,0,0" 
+		EqualizerWnd="444,268,727,390" 
+		PlayListWnd="444,390,727,512"
+	/>
+	<Visual 
+		SpectrumTopColor="#000000" 
+		SpectrumBtmColor="#f16101" 
+		SpectrumMidColor="#800000" 
+		SpectrumPeakColor="#ffffff" 
+		SpectrumWide="1" 
+		BlurSpeed="5" 
+		Blur="1" 
+		TextColor="#c1aafd" 
+		Font="-12,0,0,0,400,0,0,0,1,0,0,4,0,微软雅黑" 
+		BlurScopeColor="#400040"
+	/>
+	<Lyric 
+		Font="-11,0,0,0,400,0,0,0,1,0,0,4,0,Tahoma" 
+		TextColor="#800000" 
+		HilightColor="#ffffff" 
+		BkgndColor="#f58a43"
+	/>
+	<PlayList 
+		Font="-12,0,0,0,400,0,0,0,1,0,0,4,0,微软雅黑" 
+		Color_Text="#800000" 
+		Color_Hilight="#ffffff" 
+		Color_Bkgnd="#f58a43" 
+		Color_Number="#800000" 
+		Color_Duration="#800000" 
+		Color_Select="#3399ff" 
+		Color_Bkgnd2="#f58a43"
+	/>
+</ttplayer>
